@@ -8,11 +8,6 @@ software engineer(student) working with **c** and **js** , **fullstack web-devel
 
 int main (void)
 {
-
-  if(youHireMe() == true)
-    return amHappy();
-  
-  return amNotHappy();
-
+  return youHireMe() ? amHappy() : amNotHappy() ;
 }
 ```
