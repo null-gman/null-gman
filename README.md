@@ -1,13 +1,9 @@
 > HELLO , WOLRD
 
-software engineer(student) working with **c** and **js** , **fullstack web-developer** .
+---
 
-```
-#include <myStatus.h> /* amHappy() , amNotHappy() */
-#include <job.h> /* youHireMe() */
+## Need technical support ?! 
+do not call me .
 
-int main (void)
-{
-  return youHireMe() ? amHappy() : amNotHappy() ;
-}
-```
+
+
