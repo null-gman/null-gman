@@ -2,8 +2,6 @@
 
 ---
 
-## Need technical support ?! 
-do not call me .
 
 
 
