@@ -18,7 +18,7 @@ int main(void)
   diagnose();
   troubleshoot();
  
-  do{
+
 TryAgain:
       search();
       learn();
@@ -26,8 +26,8 @@ TryAgain:
       if(Failed()){
         goto TryAgain;
       };
-  }while(Alive);
 
+End:
   return 0;//As Expected :)
 };
 ```
