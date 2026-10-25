@@ -5,8 +5,6 @@
 #include <stdbool.h>
 #include <omar_skilles.h>
 
-const bool Alive = true;
-
 int main(void)
 {
   linux();
@@ -26,7 +24,6 @@ TryAgain:
       if(Failed()){
         goto TryAgain;
       };
-
 End:
   return 0;//As Expected :)
 };
